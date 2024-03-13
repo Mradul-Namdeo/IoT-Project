@@ -18,3 +18,7 @@ Solution :- Shown in Correlation
 3) Utilize the collected readings, comprising multiple (7) features, to determine the likelihood of detecting a fire through the presence of light.
 
 Solution :- Shown in Classification
+
+# Dataset Link : 
+
+# COLAB Link : https://colab.research.google.com/drive/1FR2a2gcOQlDHYxnU1xqJks4d7nQmE0R2?usp=sharing
